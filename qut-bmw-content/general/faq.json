@@ -1,0 +1,13 @@
+[
+  {
+    "id": "gen-002",
+    "title": "Frequently Asked Questions",
+    "summary": "Common questions about the QUT BMW Internship Program.",
+    "body": "**Q: Who is eligible to apply?**\nA: Current QUT students enrolled in IT, Engineering, Data Science, or related disciplines.\n\n**Q: Where are the internships located?**\nA: Positions are available in Brisbane (QUT campus) and Munich, Germany (BMW HQ).\n\n**Q: How long are the internships?**\nA: Internships run for 12 weeks, typically aligned with QUT's semester breaks.\n\n**Q: Is there a stipend?**\nA: Yes, all interns receive a competitive stipend and, for Munich placements, relocation assistance.",
+    "tags": ["faq", "eligibility", "location", "duration"],
+    "section": "general",
+    "imageURL": null,
+    "externalURL": null,
+    "publishedAt": "2026-01-01"
+  }
+]

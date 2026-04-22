@@ -1,0 +1,17 @@
+{
+  "lastUpdated": "2026-04-22",
+  "sections": [
+    {
+      "section": "general",
+      "files": ["overview.json", "faq.json"]
+    },
+    {
+      "section": "student",
+      "files": ["opportunities.json", "how-to-apply.json"]
+    },
+    {
+      "section": "parent",
+      "files": ["parent-guide.json"]
+    }
+  ]
+}

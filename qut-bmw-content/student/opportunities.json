@@ -1,0 +1,24 @@
+[
+  {
+    "id": "stu-001",
+    "title": "Software Engineering Internship",
+    "summary": "Work alongside BMW engineers on next-generation vehicle software systems.",
+    "body": "Join BMW's Connected Drive team to develop software for in-vehicle infotainment, over-the-air updates, and driver assistance systems. You will work in an agile team using modern tools including Swift, Kotlin, C++, and cloud platforms.\n\n**Requirements:**\n- 2nd year or above in Software Engineering or Computer Science\n- Strong programming fundamentals\n- Interest in automotive technology\n\n**Duration:** 12 weeks\n**Location:** Munich, Germany or Brisbane",
+    "tags": ["software", "engineering", "connected drive", "agile"],
+    "section": "student",
+    "imageURL": null,
+    "externalURL": null,
+    "publishedAt": "2026-02-01"
+  },
+  {
+    "id": "stu-002",
+    "title": "Data Science & AI Internship",
+    "summary": "Apply machine learning to real automotive production and quality data.",
+    "body": "Work with BMW's data science team to build predictive models for manufacturing quality, supply chain optimisation, and customer experience personalisation.\n\n**Requirements:**\n- Strong Python skills (pandas, scikit-learn, PyTorch)\n- Statistics background\n- Experience with data visualisation\n\n**Duration:** 12 weeks\n**Location:** Brisbane (remote collaboration with Munich team)",
+    "tags": ["data science", "AI", "machine learning", "Python"],
+    "section": "student",
+    "imageURL": null,
+    "externalURL": null,
+    "publishedAt": "2026-02-01"
+  }
+]
